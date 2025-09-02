@@ -7,4 +7,5 @@ This project is an automation framework built using Java, Selenium, TestNG, and 
 - [**Maven**](https://maven.apache.org/) – Build and dependency management tool
 - [**TestNG**](https://testng.org/) – Testing framework
 - [**Cucumber**](https://cucumber.io/) - Web automation framework
+## Project Structure
 
