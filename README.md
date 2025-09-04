@@ -8,4 +8,16 @@ This project is an automation framework built using Java, Selenium, TestNG, and 
 - [**TestNG**](https://testng.org/) – Testing framework
 - [**Cucumber**](https://cucumber.io/) - Web automation framework
 ## Project Structure
+```
+├── src/test/java/                 → Test scripts & page objects
+│   ├── factory/                   → POM classes
+│   ├── hooks/                     → Base setup class
+│   ├── runner/                    → TestNG test cases
+│   └── stepDefinitions/           → Helper classes (Excel, Reports)
+├── src/test/resources/            → Config & log4j files
+│   ├── cucumber.properties/       → Execution reports
+├── Features                       → Write Gherkin language
+├── pom.xml                        → Maven dependencies & plugins                     
+└── README.md                      → Project documentation
+```
 
