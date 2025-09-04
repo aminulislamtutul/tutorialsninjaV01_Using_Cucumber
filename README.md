@@ -10,9 +10,9 @@ This project is an automation framework built using Java, Selenium, TestNG, and 
 ## Project Structure
 ```
 ├── src/test/java/                 → Test scripts & page objects
-│   ├── factory/                   → POM classes
+│   ├── factory/                   → Driver setup class
 │   ├── hooks/                     → Base setup class
-│   ├── runner/                    → TestNG test cases
+│   ├── runner/                    → Run test cases
 │   └── stepDefinitions/           → Helper classes (Excel, Reports)
 ├── src/test/resources/            → Config & log4j files
 │   ├── cucumber.properties/       → Execution reports
