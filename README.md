@@ -11,10 +11,10 @@ This project is an automation framework built using Java, Selenium, TestNG, and 
 ```
 ├── src/test/java/                 → Test scripts & page objects
 │   ├── factory/                   → Driver setup class
-│   ├── hooks/                     → Base setup class
+│   ├── hooks/                     → Hooks setup class
 │   ├── runner/                    → Run test cases
-│   └── stepDefinitions/           → Helper classes (Excel, Reports)
-├── src/test/resources/            → Config & log4j files
+│   └── stepDefinitions/           → POM classes
+├── src/test/resources/            → Properties files
 │   ├── cucumber.properties/       → Execution reports
 ├── Features                       → Write Gherkin language
 ├── pom.xml                        → Maven dependencies & plugins                     
