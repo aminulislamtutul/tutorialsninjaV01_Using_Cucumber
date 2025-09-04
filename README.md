@@ -20,4 +20,9 @@ This project is an automation framework built using Java, Selenium, TestNG, and 
 ├── pom.xml                        → Maven dependencies & plugins                     
 └── README.md                      → Project documentation
 ```
+##  Setup & Execution
+### 1️⃣ Clone the repository
+```
+https://github.com/aminulislamtutul/opencartV01_Web_Automation_Testing_Project.git
+```
 
