@@ -23,6 +23,6 @@ This project is an automation framework built using Java, Selenium, TestNG, and 
 ##  Setup & Execution
 ### 1️⃣ Clone the repository
 ```
-https://github.com/aminulislamtutul/opencartV01_Web_Automation_Testing_Project.git
+https://github.com/aminulislamtutul/tutorialsninjaV01_Using_Cucumber.git
 ```
 
