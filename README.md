@@ -30,3 +30,5 @@ This project is an automation framework built using Java, Selenium, TestNG, and 
 https://github.com/aminulislamtutul/tutorialsninjaV01_Using_Cucumber.git
 ```
 ## Cucumber Reports
+<img width="949" height="444" alt="CucumberReports" src="https://github.com/user-attachments/assets/173d7512-a810-4036-97cb-e5014619af31" />
+
